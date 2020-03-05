@@ -15,7 +15,7 @@ namespace EfDemo.Persistence
     {
 
     }
-
+         
     public ApplicationDbContext(DbContextOptions options) : base(options)
     {
 
